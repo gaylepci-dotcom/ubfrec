@@ -177,12 +177,28 @@
     "country": "USA",
     "region": "NA",
     "wins": 0,
-    "losses": 0,
+    "losses": 1,
     "draws": 0,
     "noContests": 0,
     "kos": 0,
-    "lastMatch": null,
-    "history": []
+    "lastMatch": {
+      "opponentId": "1482589248078217256",
+      "opponentName": "Illa topuria",
+      "result": "loss",
+      "method": "decision",
+      "round": 5,
+      "date": "2026-08-23T23:46:16.240Z"
+    },
+    "history": [
+      {
+        "opponentId": "1482589248078217256",
+        "opponentName": "Illa topuria",
+        "result": "loss",
+        "method": "decision",
+        "round": 5,
+        "date": "2026-08-23T23:46:16.240Z"
+      }
+    ]
   },
   "901259593689214987": {
     "discordId": "901259593689214987",
@@ -227,13 +243,29 @@
     "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-40C01EF8ED2FB9C515C15C1DB08FE3E7-Png/420/420/AvatarHeadshot/Png/noFilter",
     "country": "Georgia",
     "region": "NA",
-    "wins": 0,
+    "wins": 1,
     "losses": 0,
     "draws": 0,
     "noContests": 0,
     "kos": 0,
-    "lastMatch": null,
-    "history": []
+    "lastMatch": {
+      "opponentId": "1058546468807524514",
+      "opponentName": "Rock Lee",
+      "result": "win",
+      "method": "decision",
+      "round": 5,
+      "date": "2026-08-23T23:46:16.240Z"
+    },
+    "history": [
+      {
+        "opponentId": "1058546468807524514",
+        "opponentName": "Rock Lee",
+        "result": "win",
+        "method": "decision",
+        "round": 5,
+        "date": "2026-08-23T23:46:16.240Z"
+      }
+    ]
   },
   "1094101461794828370": {
     "discordId": "1094101461794828370",
