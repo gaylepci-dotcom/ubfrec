@@ -362,13 +362,29 @@
     "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-BC3A1502F6DD27BCEEDD19C56431694B-Png/420/420/AvatarHeadshot/Png/noFilter",
     "country": "Thailand",
     "region": "EU",
-    "wins": 0,
+    "wins": 1,
     "losses": 0,
     "draws": 0,
     "noContests": 0,
     "kos": 0,
-    "lastMatch": null,
-    "history": []
+    "lastMatch": {
+      "opponentId": "820290294183886908",
+      "opponentName": "Sal Luccieri",
+      "result": "win",
+      "method": "tko",
+      "round": 4,
+      "date": "2026-08-23T23:44:44.342Z"
+    },
+    "history": [
+      {
+        "opponentId": "820290294183886908",
+        "opponentName": "Sal Luccieri",
+        "result": "win",
+        "method": "tko",
+        "round": 4,
+        "date": "2026-08-23T23:44:44.342Z"
+      }
+    ]
   },
   "1201670204443340801": {
     "discordId": "1201670204443340801",
@@ -482,12 +498,28 @@
     "country": "United States",
     "region": "NA",
     "wins": 0,
-    "losses": 0,
+    "losses": 1,
     "draws": 0,
     "noContests": 0,
     "kos": 0,
-    "lastMatch": null,
-    "history": []
+    "lastMatch": {
+      "opponentId": "826495480065294397",
+      "opponentName": "Rxck Dubois",
+      "result": "loss",
+      "method": "tko",
+      "round": 4,
+      "date": "2026-08-23T23:44:44.342Z"
+    },
+    "history": [
+      {
+        "opponentId": "826495480065294397",
+        "opponentName": "Rxck Dubois",
+        "result": "loss",
+        "method": "tko",
+        "round": 4,
+        "date": "2026-08-23T23:44:44.342Z"
+      }
+    ]
   },
   "1107360762034405406": {
     "discordId": "1107360762034405406",
