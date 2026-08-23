@@ -143,13 +143,29 @@
     "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3EC78092D6F7E387655CE6394ABD9C34-Png/420/420/AvatarHeadshot/Png/noFilter",
     "country": "United States",
     "region": "NA",
-    "wins": 0,
+    "wins": 1,
     "losses": 0,
     "draws": 0,
     "noContests": 0,
     "kos": 0,
-    "lastMatch": null,
-    "history": []
+    "lastMatch": {
+      "opponentId": "1521441001447620678",
+      "opponentName": "Rico",
+      "result": "win",
+      "method": "decision",
+      "round": 4,
+      "date": "2026-08-23T22:18:29.951Z"
+    },
+    "history": [
+      {
+        "opponentId": "1521441001447620678",
+        "opponentName": "Rico",
+        "result": "win",
+        "method": "decision",
+        "round": 4,
+        "date": "2026-08-23T22:18:29.951Z"
+      }
+    ]
   },
   "1058546468807524514": {
     "discordId": "1058546468807524514",
@@ -500,12 +516,28 @@
     "country": "El Salvador",
     "region": "NA",
     "wins": 0,
-    "losses": 0,
+    "losses": 1,
     "draws": 0,
     "noContests": 0,
     "kos": 0,
-    "lastMatch": null,
-    "history": []
+    "lastMatch": {
+      "opponentId": "1522384089980866616",
+      "opponentName": "Walkin Johnson",
+      "result": "loss",
+      "method": "decision",
+      "round": 4,
+      "date": "2026-08-23T22:18:29.951Z"
+    },
+    "history": [
+      {
+        "opponentId": "1522384089980866616",
+        "opponentName": "Walkin Johnson",
+        "result": "loss",
+        "method": "decision",
+        "round": 4,
+        "date": "2026-08-23T22:18:29.951Z"
+      }
+    ]
   },
   "1520527422372446310": {
     "discordId": "1520527422372446310",
