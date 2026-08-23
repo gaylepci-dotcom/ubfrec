@@ -246,6 +246,39 @@
     "country": "United States",
     "region": "NA",
     "wins": 0,
+    "losses": 1,
+    "draws": 0,
+    "noContests": 0,
+    "kos": 0,
+    "lastMatch": {
+      "opponentId": "673701036665470977",
+      "opponentName": "Wood Lee",
+      "result": "loss",
+      "method": "ko",
+      "round": 1,
+      "date": "2026-08-23T07:37:09.762Z"
+    },
+    "history": [
+      {
+        "opponentId": "673701036665470977",
+        "opponentName": "Wood Lee",
+        "result": "loss",
+        "method": "ko",
+        "round": 1,
+        "date": "2026-08-23T07:37:09.762Z"
+      }
+    ]
+  },
+  "1087923564214235207": {
+    "discordId": "1087923564214235207",
+    "fighterName": "alo",
+    "robloxUsername": "SunDark_Alo",
+    "robloxDisplayName": "AloEditz",
+    "robloxUserId": 1343059111,
+    "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-127936BC36B9B81E529981F0C0A26623-Png/420/420/AvatarHeadshot/Png/noFilter",
+    "country": "USA",
+    "region": "NA",
+    "wins": 0,
     "losses": 0,
     "draws": 0,
     "noContests": 0,
