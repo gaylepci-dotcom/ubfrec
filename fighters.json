@@ -499,12 +499,28 @@
     "country": "Nicaragua",
     "region": "NA",
     "wins": 0,
-    "losses": 0,
+    "losses": 1,
     "draws": 0,
     "noContests": 0,
     "kos": 0,
-    "lastMatch": null,
-    "history": []
+    "lastMatch": {
+      "opponentId": "1075183367592616019",
+      "opponentName": "Troy Brown",
+      "result": "loss",
+      "method": "ko",
+      "round": 5,
+      "date": "2026-08-23T23:39:46.382Z"
+    },
+    "history": [
+      {
+        "opponentId": "1075183367592616019",
+        "opponentName": "Troy Brown",
+        "result": "loss",
+        "method": "ko",
+        "round": 5,
+        "date": "2026-08-23T23:39:46.382Z"
+      }
+    ]
   },
   "1521441001447620678": {
     "discordId": "1521441001447620678",
@@ -565,13 +581,29 @@
     "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-92B9A81B0BFDCBFDB6C3C8102D9AB3E4-Png/420/420/AvatarHeadshot/Png/noFilter",
     "country": "Jamaica",
     "region": "NA",
-    "wins": 0,
+    "wins": 1,
     "losses": 0,
     "draws": 0,
     "noContests": 0,
-    "kos": 0,
-    "lastMatch": null,
-    "history": []
+    "kos": 1,
+    "lastMatch": {
+      "opponentId": "1107360762034405406",
+      "opponentName": "Luciano Rivas",
+      "result": "win",
+      "method": "ko",
+      "round": 5,
+      "date": "2026-08-23T23:39:46.382Z"
+    },
+    "history": [
+      {
+        "opponentId": "1107360762034405406",
+        "opponentName": "Luciano Rivas",
+        "result": "win",
+        "method": "ko",
+        "round": 5,
+        "date": "2026-08-23T23:39:46.382Z"
+      }
+    ]
   },
   "1186506103954096261": {
     "discordId": "1186506103954096261",
