@@ -3,7 +3,9 @@
     "displayName": "Wood Lee",
     "alias": "Devil",
     "division": "",
-    "p4p": 1,
-    "org": {}
+    "p4p": null,
+    "org": {
+      "WBA": 1
+    }
   }
 }
