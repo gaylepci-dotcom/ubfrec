@@ -8,13 +8,29 @@
     "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-75E1400A62401CEB539081390ECF698F-Png/420/420/AvatarHeadshot/Png/noFilter",
     "country": "Philippines",
     "region": "ASIA",
-    "wins": 0,
+    "wins": 1,
     "losses": 0,
     "draws": 0,
     "noContests": 0,
-    "kos": 0,
-    "lastMatch": null,
-    "history": []
+    "kos": 1,
+    "lastMatch": {
+      "opponentId": "790816086505160704",
+      "opponentName": "Why Bebe",
+      "result": "win",
+      "method": "ko",
+      "round": 1,
+      "date": "2026-08-23T07:37:09.762Z"
+    },
+    "history": [
+      {
+        "opponentId": "790816086505160704",
+        "opponentName": "Why Bebe",
+        "result": "win",
+        "method": "ko",
+        "round": 1,
+        "date": "2026-08-23T07:37:09.762Z"
+      }
+    ]
   },
   "1223270962183802910": {
     "discordId": "1223270962183802910",
