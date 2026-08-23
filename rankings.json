@@ -1,12 +1,9 @@
 {
   "wood lee": {
     "displayName": "Wood Lee",
-    "alias": "Devil",
+    "alias": "",
     "division": "",
     "p4p": null,
-    "org": {
-      "WBA": 1,
-      "WBO": 2
-    }
+    "org": {}
   }
 }
