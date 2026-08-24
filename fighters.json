@@ -44,6 +44,40 @@
     "region": "NA",
     "division": "Light Heavyweight",
     "wins": 0,
+    "losses": 1,
+    "draws": 0,
+    "noContests": 0,
+    "finishes": 0,
+    "lastMatch": {
+      "opponentId": "673701036665470977",
+      "opponentName": "Ty Woods",
+      "result": "loss",
+      "method": "submission",
+      "round": 4,
+      "date": "2026-08-24T04:58:20.607Z"
+    },
+    "history": [
+      {
+        "opponentId": "673701036665470977",
+        "opponentName": "Ty Woods",
+        "result": "loss",
+        "method": "submission",
+        "round": 4,
+        "date": "2026-08-24T04:58:20.607Z"
+      }
+    ]
+  },
+  "1415773241011736677": {
+    "discordId": "1415773241011736677",
+    "fighterName": "Justin \"Juggernaut\" Jones",
+    "robloxUsername": "KingEthania123",
+    "robloxDisplayName": "Sukuna",
+    "robloxUserId": 542673880,
+    "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-4DA9793705207E2983E65E9D4C113424-Png/420/420/AvatarHeadshot/Png/noFilter",
+    "country": "United States",
+    "region": "EU",
+    "division": "Welterweight",
+    "wins": 0,
     "losses": 0,
     "draws": 0,
     "noContests": 0,
