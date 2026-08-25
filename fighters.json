@@ -88,5 +88,20 @@
     "kos": 0,
     "lastMatch": null,
     "history": []
+  },
+  "1502968322646478931": {
+    "discordId": "1502968322646478931",
+    "fighterName": "Ben",
+    "robloxUsername": "whittaker",
+    "robloxDisplayName": "whittaker",
+    "robloxUserId": 180818,
+    "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C049A9B7B6E16CEAFC7DCB9331FC65AA-Png/420/420/AvatarHeadshot/Png/noFilter",
+    "wins": 0,
+    "losses": 0,
+    "draws": 0,
+    "noContests": 0,
+    "kos": 0,
+    "lastMatch": null,
+    "history": []
   }
 }
