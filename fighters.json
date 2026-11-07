@@ -71,13 +71,29 @@
     "robloxUserId": 1726321080,
     "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-AE09E2A281BF68BD9751C88318EC4549-Png/420/420/AvatarHeadshot/Png/noFilter",
     "weightClass": "Heavyweight",
-    "wins": 0,
+    "wins": 1,
     "losses": 0,
     "draws": 0,
     "noContests": 0,
-    "kos": 0,
-    "lastMatch": null,
-    "history": []
+    "kos": 1,
+    "lastMatch": {
+      "opponentId": "1508747814015074304",
+      "opponentName": "Obn White",
+      "result": "win",
+      "method": "ko",
+      "round": 4,
+      "date": "2026-11-07T19:22:36.639Z"
+    },
+    "history": [
+      {
+        "opponentId": "1508747814015074304",
+        "opponentName": "Obn White",
+        "result": "win",
+        "method": "ko",
+        "round": 4,
+        "date": "2026-11-07T19:22:36.639Z"
+      }
+    ]
   },
   "1237222759113949215": {
     "discordId": "1237222759113949215",
@@ -152,12 +168,28 @@
     "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E917FC356560663700C65FAE1CDB1438-Png/420/420/AvatarHeadshot/Png/noFilter",
     "weightClass": "Middleweight",
     "wins": 0,
-    "losses": 0,
+    "losses": 1,
     "draws": 0,
     "noContests": 0,
     "kos": 0,
-    "lastMatch": null,
-    "history": []
+    "lastMatch": {
+      "opponentId": "790816086505160704",
+      "opponentName": "Naoya Inoue",
+      "result": "loss",
+      "method": "ko",
+      "round": 4,
+      "date": "2026-11-07T19:03:50.122Z"
+    },
+    "history": [
+      {
+        "opponentId": "790816086505160704",
+        "opponentName": "Naoya Inoue",
+        "result": "loss",
+        "method": "ko",
+        "round": 4,
+        "date": "2026-11-07T19:03:50.122Z"
+      }
+    ]
   },
   "1508747814015074304": {
     "discordId": "1508747814015074304",
