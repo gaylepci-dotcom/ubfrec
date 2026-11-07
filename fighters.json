@@ -156,8 +156,24 @@
     "draws": 0,
     "noContests": 0,
     "kos": 0,
-    "lastMatch": null,
-    "history": []
+  "lastMatch": {
+      "opponentId": "1201670204443340801",
+      "opponentName": "Jacoby Spence Jr",
+      "result": "win",
+      "method": "ko",
+      "round": 5,
+      "date": "2026-11-07T20:00:44.604Z"
+    },
+    "history": [
+      {
+        "opponentId": "1201670204443340801",
+        "opponentName": "Jacoby Spence Jr",
+        "result": "win",
+        "method": "ko",
+        "round": 5,
+        "date": "2026-11-07T20:00:44.604Z"
+      }
+    ]
   },
   "1201670204443340801": {
     "discordId": "1201670204443340801",
