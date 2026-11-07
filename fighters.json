@@ -183,13 +183,29 @@
     "robloxUserId": 88867666,
     "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-D84AAE9FC85241B6D901790C8AEBCBBC-Png/420/420/AvatarHeadshot/Png/noFilter",
     "weightClass": "Welterweight",
-    "wins": 0,
+    "wins": 1,
     "losses": 0,
     "draws": 0,
     "noContests": 0,
-    "kos": 0,
-    "lastMatch": null,
-    "history": []
+    "kos": 1,
+    "lastMatch": {
+      "opponentId": "744057313564033024",
+      "opponentName": "Wick Osama",
+      "result": "win",
+      "method": "ko",
+      "round": 4,
+      "date": "2026-11-07T19:03:50.122Z"
+    },
+    "history": [
+      {
+        "opponentId": "744057313564033024",
+        "opponentName": "Wick Osama",
+        "result": "win",
+        "method": "ko",
+        "round": 4,
+        "date": "2026-11-07T19:03:50.122Z"
+      }
+    ]
   },
   "1490097802934751444": {
     "discordId": "1490097802934751444",
@@ -215,13 +231,29 @@
     "robloxUserId": 5059502100,
     "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-833745161946A3EF871C06D354E14F7D-Png/420/420/AvatarHeadshot/Png/noFilter",
     "weightClass": "Middleweight",
-    "wins": 0,
+    "wins": 1,
     "losses": 0,
     "draws": 0,
     "noContests": 0,
     "kos": 0,
-    "lastMatch": null,
-    "history": []
+    "lastMatch": {
+      "opponentId": "1237222759113949215",
+      "opponentName": "AJ Davis",
+      "result": "win",
+      "method": "decision",
+      "round": 6,
+      "date": "2026-11-07T18:46:25.087Z"
+    },
+    "history": [
+      {
+        "opponentId": "1237222759113949215",
+        "opponentName": "AJ Davis",
+        "result": "win",
+        "method": "decision",
+        "round": 6,
+        "date": "2026-11-07T18:46:25.087Z"
+      }
+    ]
   },
   "1234937640512393378": {
     "discordId": "1234937640512393378",
