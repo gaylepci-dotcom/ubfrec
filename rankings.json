@@ -4,79 +4,63 @@
     "style": "",
     "status": "Contender",
     "rank": 1,
-    "orgs": [
-      "P4P"
-    ],
-    "avatarMode": "username"
+    "avatarMode": "username",
+    "orgs": []
   },
   "jam saint": {
     "displayName": "Jam Saint",
     "style": "",
     "status": "Contender",
     "rank": 2,
-    "orgs": [
-      "P4P"
-    ],
-    "avatarMode": "username"
+    "avatarMode": "username",
+    "orgs": []
   },
   "rakym vegas": {
     "displayName": "RAKYM VEGAS",
     "style": "",
     "status": "Contender",
     "rank": 3,
-    "orgs": [
-      "P4P"
-    ],
-    "avatarMode": "username"
+    "avatarMode": "username",
+    "orgs": []
   },
   "muzik targaryen": {
     "displayName": "Muzik Targaryen",
     "style": "",
     "status": "Contender",
     "rank": 4,
-    "orgs": [
-      "P4P"
-    ],
-    "avatarMode": "username"
+    "avatarMode": "username",
+    "orgs": []
   },
   "naoya inoue": {
     "displayName": "Naoya Inoue",
     "style": "",
     "status": "Contender",
     "rank": 5,
-    "orgs": [
-      "P4P"
-    ],
-    "avatarMode": "username"
+    "avatarMode": "username",
+    "orgs": []
   },
   "jacoby spence jr": {
     "displayName": "Jacoby Spence Jr",
     "style": "",
     "status": "Contender",
     "rank": 6,
-    "orgs": [
-      "P4P"
-    ],
-    "avatarMode": "username"
+    "avatarMode": "username",
+    "orgs": []
   },
   "manfrys paul": {
     "displayName": "Manfrys paul",
     "style": "",
     "status": "Contender",
     "rank": 7,
-    "orgs": [
-      "P4P"
-    ],
-    "avatarMode": "username"
+    "avatarMode": "username",
+    "orgs": []
   },
   "aj davis": {
     "displayName": "AJ Davis",
     "style": "",
     "status": "Contender",
     "rank": 8,
-    "orgs": [
-      "P4P"
-    ],
-    "avatarMode": "username"
+    "avatarMode": "username",
+    "orgs": []
   }
 }
