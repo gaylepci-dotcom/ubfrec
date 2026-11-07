@@ -88,12 +88,28 @@
     "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-D5273C6471366BBD40907392A618A29F-Png/420/420/AvatarHeadshot/Png/noFilter",
     "weightClass": "Welterweight",
     "wins": 0,
-    "losses": 0,
+    "losses": 1,
     "draws": 0,
     "noContests": 0,
     "kos": 0,
-    "lastMatch": null,
-    "history": []
+    "lastMatch": {
+      "opponentId": "1107360762034405406",
+      "opponentName": "Jam Saint",
+      "result": "loss",
+      "method": "decision",
+      "round": 6,
+      "date": "2026-11-07T18:46:25.087Z"
+    },
+    "history": [
+      {
+        "opponentId": "1107360762034405406",
+        "opponentName": "Jam Saint",
+        "result": "loss",
+        "method": "decision",
+        "round": 6,
+        "date": "2026-11-07T18:46:25.087Z"
+      }
+    ]
   },
   "1488864328760426566": {
     "discordId": "1488864328760426566",
