@@ -40,12 +40,28 @@
     "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0756A61CEAF9706312DFD81797E18860-Png/420/420/AvatarHeadshot/Png/noFilter",
     "weightClass": "Heavyweight",
     "wins": 0,
-    "losses": 0,
+    "losses": 1,
     "draws": 0,
     "noContests": 0,
     "kos": 0,
-    "lastMatch": null,
-    "history": []
+    "lastMatch": {
+      "opponentId": "1340107610409402429",
+      "opponentName": "Muzik Targaryen",
+      "result": "loss",
+      "method": "ko",
+      "round": 5,
+      "date": "2026-11-07T19:38:56.996Z"
+    },
+    "history": [
+      {
+        "opponentId": "1340107610409402429",
+        "opponentName": "Muzik Targaryen",
+        "result": "loss",
+        "method": "ko",
+        "round": 5,
+        "date": "2026-11-07T19:38:56.996Z"
+      }
+    ]
   },
   "1553521389099556890": {
     "discordId": "1553521389099556890",
@@ -152,12 +168,28 @@
     "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-49891FD34390B18692E4ADF72A88DCE8-Png/420/420/AvatarHeadshot/Png/noFilter",
     "weightClass": null,
     "wins": 0,
-    "losses": 0,
+    "losses": 1,
     "draws": 0,
     "noContests": 0,
     "kos": 0,
-    "lastMatch": null,
-    "history": []
+    "lastMatch": {
+      "opponentId": "1488864328760426566",
+      "opponentName": "Keomen Saint",
+      "result": "loss",
+      "method": "ko",
+      "round": 5,
+      "date": "2026-11-07T20:00:44.604Z"
+    },
+    "history": [
+      {
+        "opponentId": "1488864328760426566",
+        "opponentName": "Keomen Saint",
+        "result": "loss",
+        "method": "ko",
+        "round": 5,
+        "date": "2026-11-07T20:00:44.604Z"
+      }
+    ]
   },
   "744057313564033024": {
     "discordId": "744057313564033024",
