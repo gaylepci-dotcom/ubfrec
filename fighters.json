@@ -200,12 +200,28 @@
     "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8A69266067FD147E88D1B9FBBF5E2DA8-Png/420/420/AvatarHeadshot/Png/noFilter",
     "weightClass": "Heavyweight",
     "wins": 0,
-    "losses": 0,
+    "losses": 1,
     "draws": 0,
     "noContests": 0,
     "kos": 0,
-    "lastMatch": null,
-    "history": []
+    "lastMatch": {
+      "opponentId": "1211097776960577546",
+      "opponentName": "RAKYM VEGAS",
+      "result": "loss",
+      "method": "ko",
+      "round": 4,
+      "date": "2026-11-07T19:22:36.639Z"
+    },
+    "history": [
+      {
+        "opponentId": "1211097776960577546",
+        "opponentName": "RAKYM VEGAS",
+        "result": "loss",
+        "method": "ko",
+        "round": 4,
+        "date": "2026-11-07T19:22:36.639Z"
+      }
+    ]
   },
   "790816086505160704": {
     "discordId": "790816086505160704",
@@ -311,13 +327,29 @@
     "robloxUserId": 780605306,
     "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-791EE24547C45CADB1C8A5D4DC53506B-Png/420/420/AvatarHeadshot/Png/noFilter",
     "weightClass": "Light Heavyweight",
-    "wins": 0,
+    "wins": 1,
     "losses": 0,
     "draws": 0,
     "noContests": 0,
-    "kos": 0,
-    "lastMatch": null,
-    "history": []
+    "kos": 1,
+    "lastMatch": {
+      "opponentId": "1295836674328100940",
+      "opponentName": "Manfrys paul",
+      "result": "win",
+      "method": "ko",
+      "round": 5,
+      "date": "2026-11-07T19:38:56.996Z"
+    },
+    "history": [
+      {
+        "opponentId": "1295836674328100940",
+        "opponentName": "Manfrys paul",
+        "result": "win",
+        "method": "ko",
+        "round": 5,
+        "date": "2026-11-07T19:38:56.996Z"
+      }
+    ]
   },
   "1545855681901502573": {
     "discordId": "1545855681901502573",
