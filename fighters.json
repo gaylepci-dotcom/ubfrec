@@ -175,18 +175,18 @@
     "robloxUserId": 476375272,
     "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7A951E1C3A38B851DBDD6D2F45BCBDE9-Png/420/420/AvatarHeadshot/Png/noFilter",
     "weightClass": "Middleweight",
-    "wins": 1,
+    "wins": 2,
     "losses": 0,
     "draws": 0,
     "noContests": 0,
     "kos": 1,
     "lastMatch": {
-      "opponentId": "1201670204443340801",
-      "opponentName": "Jacoby Spence Jr",
+      "opponentId": "669966969130450956",
+      "opponentName": "Kaz Vegas",
       "result": "win",
-      "method": "ko",
+      "method": "tko",
       "round": 5,
-      "date": "2026-11-07T20:00:44.604Z"
+      "date": "2026-11-22T21:01:06.632Z"
     },
     "history": [
       {
@@ -196,6 +196,14 @@
         "method": "ko",
         "round": 5,
         "date": "2026-11-07T20:00:44.604Z"
+      },
+      {
+        "opponentId": "669966969130450956",
+        "opponentName": "Kaz Vegas",
+        "result": "win",
+        "method": "tko",
+        "round": 5,
+        "date": "2026-11-22T21:01:06.632Z"
       }
     ]
   },
@@ -910,5 +918,21 @@
         "date": "2026-11-22T21:01:06.632Z"
       }
     ]
+  },
+  "825221701612601394": {
+    "discordId": "825221701612601394",
+    "fighterName": "Testguy",
+    "robloxUsername": "LBP12k3",
+    "robloxDisplayName": "pqzwalt",
+    "robloxUserId": 87058542,
+    "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-4A81F8CF4F0D7319D01BA063B3C226C4-Png/420/420/AvatarHeadshot/Png/noFilter",
+    "weightClass": "Heavyweight",
+    "wins": 0,
+    "losses": 0,
+    "draws": 0,
+    "noContests": 0,
+    "kos": 0,
+    "lastMatch": null,
+    "history": []
   }
 }
