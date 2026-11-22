@@ -39,18 +39,18 @@
     "robloxUserId": 2879328364,
     "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0756A61CEAF9706312DFD81797E18860-Png/420/420/AvatarHeadshot/Png/noFilter",
     "weightClass": "Heavyweight",
-    "wins": 0,
+    "wins": 1,
     "losses": 1,
     "draws": 0,
     "noContests": 0,
-    "kos": 0,
+    "kos": 1,
     "lastMatch": {
-      "opponentId": "1340107610409402429",
-      "opponentName": "Muzik Targaryen",
-      "result": "loss",
+      "opponentId": "1220525254196199435",
+      "opponentName": "Marr Harmon",
+      "result": "win",
       "method": "ko",
       "round": 5,
-      "date": "2026-11-07T19:38:56.996Z"
+      "date": "2026-11-21T19:32:53.797Z"
     },
     "history": [
       {
@@ -60,6 +60,14 @@
         "method": "ko",
         "round": 5,
         "date": "2026-11-07T19:38:56.996Z"
+      },
+      {
+        "opponentId": "1220525254196199435",
+        "opponentName": "Marr Harmon",
+        "result": "win",
+        "method": "ko",
+        "round": 5,
+        "date": "2026-11-21T19:32:53.797Z"
       }
     ]
   },
@@ -87,18 +95,18 @@
     "robloxUserId": 1726321080,
     "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-AE09E2A281BF68BD9751C88318EC4549-Png/420/420/AvatarHeadshot/Png/noFilter",
     "weightClass": "Heavyweight",
-    "wins": 1,
+    "wins": 2,
     "losses": 0,
     "draws": 0,
     "noContests": 0,
     "kos": 1,
     "lastMatch": {
-      "opponentId": "1508747814015074304",
-      "opponentName": "Obn White",
+      "opponentId": "1087923564214235207",
+      "opponentName": "Michael Chandler",
       "result": "win",
-      "method": "ko",
-      "round": 4,
-      "date": "2026-11-07T19:22:36.639Z"
+      "method": "decision",
+      "round": null,
+      "date": "2026-11-21T19:39:09.034Z"
     },
     "history": [
       {
@@ -108,6 +116,14 @@
         "method": "ko",
         "round": 4,
         "date": "2026-11-07T19:22:36.639Z"
+      },
+      {
+        "opponentId": "1087923564214235207",
+        "opponentName": "Michael Chandler",
+        "result": "win",
+        "method": "decision",
+        "round": null,
+        "date": "2026-11-21T19:39:09.034Z"
       }
     ]
   },
@@ -120,7 +136,7 @@
     "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-D5273C6471366BBD40907392A618A29F-Png/420/420/AvatarHeadshot/Png/noFilter",
     "weightClass": "Welterweight",
     "wins": 0,
-    "losses": 1,
+    "losses": 2,
     "draws": 0,
     "noContests": 0,
     "kos": 0,
@@ -129,8 +145,8 @@
       "opponentName": "Jam Saint",
       "result": "loss",
       "method": "decision",
-      "round": 6,
-      "date": "2026-11-07T18:46:25.087Z"
+      "round": null,
+      "date": "2026-11-07T21:55:34.046Z"
     },
     "history": [
       {
@@ -140,6 +156,14 @@
         "method": "decision",
         "round": 6,
         "date": "2026-11-07T18:46:25.087Z"
+      },
+      {
+        "opponentId": "1107360762034405406",
+        "opponentName": "Jam Saint",
+        "result": "loss",
+        "method": "decision",
+        "round": null,
+        "date": "2026-11-07T21:55:34.046Z"
       }
     ]
   },
@@ -156,7 +180,7 @@
     "draws": 0,
     "noContests": 0,
     "kos": 1,
-  "lastMatch": {
+    "lastMatch": {
       "opponentId": "1201670204443340801",
       "opponentName": "Jacoby Spence Jr",
       "result": "win",
@@ -327,7 +351,7 @@
     "robloxUserId": 5059502100,
     "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-833745161946A3EF871C06D354E14F7D-Png/420/420/AvatarHeadshot/Png/noFilter",
     "weightClass": "Middleweight",
-    "wins": 1,
+    "wins": 2,
     "losses": 0,
     "draws": 0,
     "noContests": 0,
@@ -337,8 +361,8 @@
       "opponentName": "AJ Davis",
       "result": "win",
       "method": "decision",
-      "round": 6,
-      "date": "2026-11-07T18:46:25.087Z"
+      "round": null,
+      "date": "2026-11-07T21:55:34.046Z"
     },
     "history": [
       {
@@ -348,6 +372,14 @@
         "method": "decision",
         "round": 6,
         "date": "2026-11-07T18:46:25.087Z"
+      },
+      {
+        "opponentId": "1237222759113949215",
+        "opponentName": "AJ Davis",
+        "result": "win",
+        "method": "decision",
+        "round": null,
+        "date": "2026-11-07T21:55:34.046Z"
       }
     ]
   },
@@ -407,6 +439,438 @@
     "robloxUserId": 11477991366,
     "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3B7734B397923446AFA387FAEF9FE5F9-Png/420/420/AvatarHeadshot/Png/noFilter",
     "weightClass": "Lightweight",
+    "wins": 0,
+    "losses": 0,
+    "draws": 0,
+    "noContests": 0,
+    "kos": 0,
+    "lastMatch": null,
+    "history": []
+  },
+  "1069297322116255854": {
+    "discordId": "1069297322116255854",
+    "fighterName": "Jay Hunter",
+    "robloxUsername": "yaboyinthehou12",
+    "robloxDisplayName": "Jay Hunter",
+    "robloxUserId": 2453203134,
+    "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F05265AA790973569966A0F38B252BB5-Png/420/420/AvatarHeadshot/Png/noFilter",
+    "weightClass": "Middleweight",
+    "wins": 0,
+    "losses": 0,
+    "draws": 0,
+    "noContests": 0,
+    "kos": 0,
+    "lastMatch": null,
+    "history": []
+  },
+  "1087923564214235207": {
+    "discordId": "1087923564214235207",
+    "fighterName": "Michael Chandler",
+    "robloxUsername": "SunDark_Alo",
+    "robloxDisplayName": "Alo",
+    "robloxUserId": 1343059111,
+    "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-AFF87C3DB536ED243B8668A63EC04DAE-Png/420/420/AvatarHeadshot/Png/noFilter",
+    "weightClass": "Lightweight",
+    "wins": 0,
+    "losses": 1,
+    "draws": 0,
+    "noContests": 0,
+    "kos": 0,
+    "lastMatch": {
+      "opponentId": "1211097776960577546",
+      "opponentName": "RAKYM VEGAS",
+      "result": "loss",
+      "method": "decision",
+      "round": null,
+      "date": "2026-11-21T19:39:09.034Z"
+    },
+    "history": [
+      {
+        "opponentId": "1211097776960577546",
+        "opponentName": "RAKYM VEGAS",
+        "result": "loss",
+        "method": "decision",
+        "round": null,
+        "date": "2026-11-21T19:39:09.034Z"
+      }
+    ]
+  },
+  "1568069637382348941": {
+    "discordId": "1568069637382348941",
+    "fighterName": "ANGEL POWERS",
+    "robloxUsername": "AMBYISGOAT1",
+    "robloxDisplayName": "AMBYISGOAT1",
+    "robloxUserId": 11946770359,
+    "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8A04229576DFCECADC935594E5B1359C-Png/420/420/AvatarHeadshot/Png/noFilter",
+    "weightClass": "Featherweight",
+    "wins": 0,
+    "losses": 0,
+    "draws": 0,
+    "noContests": 0,
+    "kos": 0,
+    "lastMatch": null,
+    "history": []
+  },
+  "711700547798958110": {
+    "discordId": "711700547798958110",
+    "fighterName": "Foxley Foxington",
+    "robloxUsername": "FoxleyFoxington",
+    "robloxDisplayName": "Foxley Foxington",
+    "robloxUserId": 10926270244,
+    "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A5AEDBEFC788A749C02C8A47495805D3-Png/420/420/AvatarHeadshot/Png/noFilter",
+    "weightClass": "Lightweight",
+    "wins": 0,
+    "losses": 0,
+    "draws": 0,
+    "noContests": 0,
+    "kos": 0,
+    "lastMatch": null,
+    "history": []
+  },
+  "1178378157603172437": {
+    "discordId": "1178378157603172437",
+    "fighterName": "Gabriele",
+    "robloxUsername": "Anast9009",
+    "robloxDisplayName": "Anast9009",
+    "robloxUserId": 7074672792,
+    "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-FAF71D0E16111D3059C0C6636D28B8E3-Png/420/420/AvatarHeadshot/Png/noFilter",
+    "weightClass": "Lightweight",
+    "wins": 0,
+    "losses": 1,
+    "draws": 0,
+    "noContests": 0,
+    "kos": 0,
+    "lastMatch": {
+      "opponentId": "1533189086230216756",
+      "opponentName": "Leo the 3rd",
+      "result": "loss",
+      "method": "tko",
+      "round": 2,
+      "date": "2026-11-15T18:55:42.148Z"
+    },
+    "history": [
+      {
+        "opponentId": "1533189086230216756",
+        "opponentName": "Leo the 3rd",
+        "result": "loss",
+        "method": "tko",
+        "round": 2,
+        "date": "2026-11-15T18:55:42.148Z"
+      }
+    ]
+  },
+  "1533189086230216756": {
+    "discordId": "1533189086230216756",
+    "fighterName": "Leo the 3rd",
+    "robloxUsername": "FartMonster12300",
+    "robloxDisplayName": "FartMonster12300",
+    "robloxUserId": 11188096054,
+    "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-6F7ED4D7851388D41E2F0AB2FC2A6B63-Png/420/420/AvatarHeadshot/Png/noFilter",
+    "weightClass": "Heavyweight",
+    "wins": 1,
+    "losses": 0,
+    "draws": 0,
+    "noContests": 0,
+    "kos": 0,
+    "lastMatch": {
+      "opponentId": "1178378157603172437",
+      "opponentName": "Gabriele",
+      "result": "win",
+      "method": "tko",
+      "round": 2,
+      "date": "2026-11-15T18:55:42.148Z"
+    },
+    "history": [
+      {
+        "opponentId": "1178378157603172437",
+        "opponentName": "Gabriele",
+        "result": "win",
+        "method": "tko",
+        "round": 2,
+        "date": "2026-11-15T18:55:42.148Z"
+      }
+    ]
+  },
+  "1501633256456458463": {
+    "discordId": "1501633256456458463",
+    "fighterName": "Raymond Demby Jr",
+    "robloxUsername": "dembykid77",
+    "robloxDisplayName": "dembykid77",
+    "robloxUserId": 1821982818,
+    "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-1DF227E5AD7FDE4D7EBC3B418B1A33E9-Png/420/420/AvatarHeadshot/Png/noFilter",
+    "weightClass": "Featherweight",
+    "wins": 0,
+    "losses": 0,
+    "draws": 0,
+    "noContests": 0,
+    "kos": 0,
+    "lastMatch": null,
+    "history": []
+  },
+  "1550464553253609492": {
+    "discordId": "1550464553253609492",
+    "fighterName": "KillerAli",
+    "robloxUsername": "Jamalgaine984",
+    "robloxDisplayName": "Brokenhandsjr",
+    "robloxUserId": 9607869064,
+    "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-545A833C144732EB01EEFE44B585FE54-Png/420/420/AvatarHeadshot/Png/noFilter",
+    "weightClass": "Lightweight",
+    "wins": 0,
+    "losses": 0,
+    "draws": 0,
+    "noContests": 0,
+    "kos": 0,
+    "lastMatch": null,
+    "history": []
+  },
+  "889991739249664041": {
+    "discordId": "889991739249664041",
+    "fighterName": "Justin Cage",
+    "robloxUsername": "manpaster1101",
+    "robloxDisplayName": "VCJustin",
+    "robloxUserId": 296466470,
+    "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A54ECE8340A2CA1E99E6639271DD9666-Png/420/420/AvatarHeadshot/Png/noFilter",
+    "weightClass": "Welterweight",
+    "wins": 0,
+    "losses": 0,
+    "draws": 0,
+    "noContests": 0,
+    "kos": 0,
+    "lastMatch": null,
+    "history": []
+  },
+  "1571215325721010319": {
+    "discordId": "1571215325721010319",
+    "fighterName": "KillerAli",
+    "robloxUsername": "Jamalgaine984",
+    "robloxDisplayName": "Brokenhandsjr",
+    "robloxUserId": 9607869064,
+    "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-50D4043798E3FFA92EEAE8CEA7BA3634-Png/420/420/AvatarHeadshot/Png/noFilter",
+    "weightClass": null,
+    "wins": 0,
+    "losses": 0,
+    "draws": 0,
+    "noContests": 0,
+    "kos": 0,
+    "lastMatch": null,
+    "history": []
+  },
+  "768917030442237972": {
+    "discordId": "768917030442237972",
+    "fighterName": "Ro Paul",
+    "robloxUsername": "mateenn12346",
+    "robloxDisplayName": "1KK",
+    "robloxUserId": 3645147145,
+    "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-707156B88956EE1751BD7D7EC52183B1-Png/420/420/AvatarHeadshot/Png/noFilter",
+    "weightClass": "Heavyweight",
+    "wins": 0,
+    "losses": 0,
+    "draws": 0,
+    "noContests": 0,
+    "kos": 0,
+    "lastMatch": null,
+    "history": []
+  },
+  "1341154785583300608": {
+    "discordId": "1341154785583300608",
+    "fighterName": "Jeremiah Jae Jones",
+    "robloxUsername": "braidbiy1",
+    "robloxDisplayName": "bardockthedawg",
+    "robloxUserId": 1176878002,
+    "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8622F70ABD2570B30F1939D9C332A00A-Png/420/420/AvatarHeadshot/Png/noFilter",
+    "weightClass": "Featherweight",
+    "wins": 0,
+    "losses": 1,
+    "draws": 0,
+    "noContests": 0,
+    "kos": 0,
+    "lastMatch": {
+      "opponentId": "1482589248078217256",
+      "opponentName": "Devonta tank",
+      "result": "loss",
+      "method": "ko",
+      "round": 4,
+      "date": "2026-11-21T18:48:17.569Z"
+    },
+    "history": [
+      {
+        "opponentId": "1482589248078217256",
+        "opponentName": "Devonta tank",
+        "result": "loss",
+        "method": "ko",
+        "round": 4,
+        "date": "2026-11-21T18:48:17.569Z"
+      }
+    ]
+  },
+  "690187327317868632": {
+    "discordId": "690187327317868632",
+    "fighterName": "Amir Saint",
+    "robloxUsername": "Sciptonit",
+    "robloxDisplayName": "Amir",
+    "robloxUserId": 1510812905,
+    "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-160CF30EBF5B17F43FE1195B5AE9FE24-Png/420/420/AvatarHeadshot/Png/noFilter",
+    "weightClass": "Welterweight",
+    "wins": 0,
+    "losses": 0,
+    "draws": 0,
+    "noContests": 0,
+    "kos": 0,
+    "lastMatch": null,
+    "history": []
+  },
+  "1437237032215904297": {
+    "discordId": "1437237032215904297",
+    "fighterName": "Troy Garcia",
+    "robloxUsername": "Mmatroy",
+    "robloxDisplayName": "Mmatroy",
+    "robloxUserId": 9917999077,
+    "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-179D55D9E4978AEF99484F2A3BCB3621-Png/420/420/AvatarHeadshot/Png/noFilter",
+    "weightClass": "Welterweight",
+    "wins": 0,
+    "losses": 0,
+    "draws": 0,
+    "noContests": 0,
+    "kos": 0,
+    "lastMatch": null,
+    "history": []
+  },
+  "1220525254196199435": {
+    "discordId": "1220525254196199435",
+    "fighterName": "Marr Harmon",
+    "robloxUsername": "Marrskii14",
+    "robloxDisplayName": "KozyMarr5",
+    "robloxUserId": 4714753239,
+    "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-D94F724D8803DCB29497F18934C46D2C-Png/420/420/AvatarHeadshot/Png/noFilter",
+    "weightClass": "Welterweight",
+    "wins": 0,
+    "losses": 1,
+    "draws": 0,
+    "noContests": 0,
+    "kos": 0,
+    "lastMatch": {
+      "opponentId": "1295836674328100940",
+      "opponentName": "Manfrys paul",
+      "result": "loss",
+      "method": "ko",
+      "round": 5,
+      "date": "2026-11-21T19:32:53.797Z"
+    },
+    "history": [
+      {
+        "opponentId": "1295836674328100940",
+        "opponentName": "Manfrys paul",
+        "result": "loss",
+        "method": "ko",
+        "round": 5,
+        "date": "2026-11-21T19:32:53.797Z"
+      }
+    ]
+  },
+  "1482589248078217256": {
+    "discordId": "1482589248078217256",
+    "fighterName": "Devonta tank",
+    "robloxUsername": "DSBA_Hybrid",
+    "robloxDisplayName": "slash holloway",
+    "robloxUserId": 4728263960,
+    "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-D69670D34102A9E2B9A35EE4C999384E-Png/420/420/AvatarHeadshot/Png/noFilter",
+    "weightClass": "Featherweight",
+    "wins": 1,
+    "losses": 0,
+    "draws": 0,
+    "noContests": 0,
+    "kos": 1,
+    "lastMatch": {
+      "opponentId": "1341154785583300608",
+      "opponentName": "Jeremiah Jae Jones",
+      "result": "win",
+      "method": "ko",
+      "round": 4,
+      "date": "2026-11-21T18:48:17.569Z"
+    },
+    "history": [
+      {
+        "opponentId": "1341154785583300608",
+        "opponentName": "Jeremiah Jae Jones",
+        "result": "win",
+        "method": "ko",
+        "round": 4,
+        "date": "2026-11-21T18:48:17.569Z"
+      }
+    ]
+  },
+  "1462611928659529985": {
+    "discordId": "1462611928659529985",
+    "fighterName": "reaper tess",
+    "robloxUsername": "STFmrgod94",
+    "robloxDisplayName": "KCUT_TESS",
+    "robloxUserId": 4774566178,
+    "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F9B2CA4DB8EC1D8275A29A633CF106D6-Png/420/420/AvatarHeadshot/Png/noFilter",
+    "weightClass": "Heavyweight",
+    "wins": 0,
+    "losses": 0,
+    "draws": 0,
+    "noContests": 0,
+    "kos": 0,
+    "lastMatch": null,
+    "history": []
+  },
+  "1104536730461282305": {
+    "discordId": "1104536730461282305",
+    "fighterName": "bud harmon",
+    "robloxUsername": "Robloxianr5a5v6m5b",
+    "robloxDisplayName": "sboysbalenci",
+    "robloxUserId": 11136036702,
+    "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-AE149AA89B8781B3C2A0CBFEC7FEC08A-Png/420/420/AvatarHeadshot/Png/noFilter",
+    "weightClass": "Welterweight",
+    "wins": 0,
+    "losses": 0,
+    "draws": 0,
+    "noContests": 0,
+    "kos": 0,
+    "lastMatch": null,
+    "history": []
+  },
+  "661697966129807361": {
+    "discordId": "661697966129807361",
+    "fighterName": "KJ Manning",
+    "robloxUsername": "bloxer_nyc",
+    "robloxDisplayName": "nyc kj",
+    "robloxUserId": 301949049,
+    "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3659B02C3BA98FD0EDB15036AA66412E-Png/420/420/AvatarHeadshot/Png/noFilter",
+    "weightClass": "Heavyweight",
+    "wins": 0,
+    "losses": 0,
+    "draws": 0,
+    "noContests": 0,
+    "kos": 0,
+    "lastMatch": null,
+    "history": []
+  },
+  "625141419455021056": {
+    "discordId": "625141419455021056",
+    "fighterName": "Elson “Darkness” Havoc",
+    "robloxUsername": "grvxzn",
+    "robloxDisplayName": "grvxzn",
+    "robloxUserId": 1121477436,
+    "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A1C388306F90F2BB3FB7253F20EDDDC2-Png/420/420/AvatarHeadshot/Png/noFilter",
+    "weightClass": "Heavyweight",
+    "wins": 0,
+    "losses": 0,
+    "draws": 0,
+    "noContests": 0,
+    "kos": 0,
+    "lastMatch": null,
+    "history": []
+  },
+  "673701036665470977": {
+    "discordId": "673701036665470977",
+    "fighterName": "Ty Woods",
+    "robloxUsername": "taste12544",
+    "robloxDisplayName": "pqzwKH",
+    "robloxUserId": 76855229,
+    "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-1EC2DD5FB7287B3A04486DC4AE714164-Png/420/420/AvatarHeadshot/Png/noFilter",
+    "weightClass": null,
     "wins": 0,
     "losses": 0,
     "draws": 0,
