@@ -543,13 +543,29 @@
     "robloxUserId": 10926270244,
     "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A5AEDBEFC788A749C02C8A47495805D3-Png/420/420/AvatarHeadshot/Png/noFilter",
     "weightClass": "Lightweight",
-    "wins": 0,
+    "wins": 1,
     "losses": 0,
     "draws": 0,
     "noContests": 0,
     "kos": 0,
-    "lastMatch": null,
-    "history": []
+    "lastMatch": {
+      "opponentId": "1550464553253609492",
+      "opponentName": "KillerAli",
+      "result": "win",
+      "method": "tko",
+      "round": 4,
+      "date": "2026-11-28T19:39:47.941Z"
+    },
+    "history": [
+      {
+        "opponentId": "1550464553253609492",
+        "opponentName": "KillerAli",
+        "result": "win",
+        "method": "tko",
+        "round": 4,
+        "date": "2026-11-28T19:39:47.941Z"
+      }
+    ]
   },
   "1178378157603172437": {
     "discordId": "1178378157603172437",
@@ -640,12 +656,28 @@
     "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-545A833C144732EB01EEFE44B585FE54-Png/420/420/AvatarHeadshot/Png/noFilter",
     "weightClass": "Lightweight",
     "wins": 0,
-    "losses": 0,
+    "losses": 1,
     "draws": 0,
     "noContests": 0,
     "kos": 0,
-    "lastMatch": null,
-    "history": []
+    "lastMatch": {
+      "opponentId": "711700547798958110",
+      "opponentName": "Foxley Foxington",
+      "result": "loss",
+      "method": "tko",
+      "round": 4,
+      "date": "2026-11-28T19:39:47.941Z"
+    },
+    "history": [
+      {
+        "opponentId": "711700547798958110",
+        "opponentName": "Foxley Foxington",
+        "result": "loss",
+        "method": "tko",
+        "round": 4,
+        "date": "2026-11-28T19:39:47.941Z"
+      }
+    ]
   },
   "889991739249664041": {
     "discordId": "889991739249664041",
