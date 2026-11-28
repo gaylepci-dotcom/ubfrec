@@ -711,13 +711,29 @@
     "robloxUserId": 296466470,
     "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A54ECE8340A2CA1E99E6639271DD9666-Png/420/420/AvatarHeadshot/Png/noFilter",
     "weightClass": "Welterweight",
-    "wins": 0,
+    "wins": 1,
     "losses": 0,
     "draws": 0,
     "noContests": 0,
-    "kos": 0,
-    "lastMatch": null,
-    "history": []
+    "kos": 1,
+    "lastMatch": {
+      "opponentId": "1482589248078217256",
+      "opponentName": "Devonta tank",
+      "result": "win",
+      "method": "ko",
+      "round": 3,
+      "date": "2026-11-28T19:49:38.791Z"
+    },
+    "history": [
+      {
+        "opponentId": "1482589248078217256",
+        "opponentName": "Devonta tank",
+        "result": "win",
+        "method": "ko",
+        "round": 3,
+        "date": "2026-11-28T19:49:38.791Z"
+      }
+    ]
   },
   "1571215325721010319": {
     "discordId": "1571215325721010319",
@@ -856,17 +872,17 @@
     "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-D69670D34102A9E2B9A35EE4C999384E-Png/420/420/AvatarHeadshot/Png/noFilter",
     "weightClass": "Featherweight",
     "wins": 1,
-    "losses": 0,
+    "losses": 1,
     "draws": 0,
     "noContests": 0,
     "kos": 1,
     "lastMatch": {
-      "opponentId": "1341154785583300608",
-      "opponentName": "Jeremiah Jae Jones",
-      "result": "win",
+      "opponentId": "889991739249664041",
+      "opponentName": "Justin Cage",
+      "result": "loss",
       "method": "ko",
-      "round": 4,
-      "date": "2026-11-21T18:48:17.569Z"
+      "round": 3,
+      "date": "2026-11-28T19:49:38.791Z"
     },
     "history": [
       {
@@ -876,6 +892,14 @@
         "method": "ko",
         "round": 4,
         "date": "2026-11-21T18:48:17.569Z"
+      },
+      {
+        "opponentId": "889991739249664041",
+        "opponentName": "Justin Cage",
+        "result": "loss",
+        "method": "ko",
+        "round": 3,
+        "date": "2026-11-28T19:49:38.791Z"
       }
     ]
   },
