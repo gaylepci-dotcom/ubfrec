@@ -415,18 +415,18 @@
     "robloxUserId": 780605306,
     "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-791EE24547C45CADB1C8A5D4DC53506B-Png/420/420/AvatarHeadshot/Png/noFilter",
     "weightClass": "Light Heavyweight",
-    "wins": 1,
+    "wins": 2,
     "losses": 0,
     "draws": 0,
     "noContests": 0,
     "kos": 1,
     "lastMatch": {
-      "opponentId": "1295836674328100940",
-      "opponentName": "Manfrys paul",
+      "opponentId": "790816086505160704",
+      "opponentName": "Naoya Inoue",
       "result": "win",
-      "method": "ko",
-      "round": 5,
-      "date": "2026-11-07T19:38:56.996Z"
+      "method": "decision",
+      "round": 6,
+      "date": "2026-11-28T19:11:30.024Z"
     },
     "history": [
       {
@@ -436,6 +436,14 @@
         "method": "ko",
         "round": 5,
         "date": "2026-11-07T19:38:56.996Z"
+      },
+      {
+        "opponentId": "790816086505160704",
+        "opponentName": "Naoya Inoue",
+        "result": "win",
+        "method": "decision",
+        "round": 6,
+        "date": "2026-11-28T19:11:30.024Z"
       }
     ]
   },
