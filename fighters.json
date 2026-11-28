@@ -8,12 +8,28 @@
     "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-765B2627990C9A097ADA62D885BC6025-Png/420/420/AvatarHeadshot/Png/noFilter",
     "weightClass": "Middleweight",
     "wins": 0,
-    "losses": 0,
+    "losses": 1,
     "draws": 0,
     "noContests": 0,
     "kos": 0,
-    "lastMatch": null,
-    "history": []
+    "lastMatch": {
+      "opponentId": "1107360762034405406",
+      "opponentName": "Jam Saint",
+      "result": "loss",
+      "method": "ko",
+      "round": 7,
+      "date": "2026-11-28T19:40:43.482Z"
+    },
+    "history": [
+      {
+        "opponentId": "1107360762034405406",
+        "opponentName": "Jam Saint",
+        "result": "loss",
+        "method": "ko",
+        "round": 7,
+        "date": "2026-11-28T19:40:43.482Z"
+      }
+    ]
   },
   "978745882428207134": {
     "discordId": "978745882428207134",
@@ -367,18 +383,18 @@
     "robloxUserId": 5059502100,
     "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-833745161946A3EF871C06D354E14F7D-Png/420/420/AvatarHeadshot/Png/noFilter",
     "weightClass": "Middleweight",
-    "wins": 2,
+    "wins": 3,
     "losses": 0,
     "draws": 0,
     "noContests": 0,
-    "kos": 0,
+    "kos": 1,
     "lastMatch": {
-      "opponentId": "1237222759113949215",
-      "opponentName": "AJ Davis",
+      "opponentId": "1522384089980866616",
+      "opponentName": "movsar evelov",
       "result": "win",
-      "method": "decision",
-      "round": null,
-      "date": "2026-11-07T21:55:34.046Z"
+      "method": "ko",
+      "round": 7,
+      "date": "2026-11-28T19:40:43.482Z"
     },
     "history": [
       {
@@ -396,6 +412,14 @@
         "method": "decision",
         "round": null,
         "date": "2026-11-07T21:55:34.046Z"
+      },
+      {
+        "opponentId": "1522384089980866616",
+        "opponentName": "movsar evelov",
+        "result": "win",
+        "method": "ko",
+        "round": 7,
+        "date": "2026-11-28T19:40:43.482Z"
       }
     ]
   },
